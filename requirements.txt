@@ -1,0 +1,4 @@
+# Seismolog runs on the standard library alone, so the tooling itself needs
+# nothing at runtime. pytest is the only declared dependency: the project's own
+# test suite (tests/) runs with it.
+pytest==9.1.1
