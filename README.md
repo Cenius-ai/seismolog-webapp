@@ -92,7 +92,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-No external services required: the entire command-line tool runs from this Full-stack app repo (27 files). Top-level layout: `tests/`. Kick off `./install.sh` to pull packages and seed the database, then the app is up. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
+No external services required: the entire command-line tool runs from this Full-stack app repo (17 files). Top-level layout: `tests/`. Kick off `./install.sh` to pull packages and seed the database, then the app is up. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
 
 ## FAQ
 
